@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="PageClassLib.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.4.0"/>
+    <PackageReference Include="Selenium.Support" Version="4.4.0"/>
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="105.0.5195.1900-beta"/>
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0"/>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0"/>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="4.3.0"/>
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>

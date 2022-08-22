@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OujJLNx2p7WmUHOWpLC3puejrw5Ze8jQ3H0Jv5rmaFwtXsUPHu1UlphNxBE4LbSvXLqAAyi6ODp4TS2dIW/aYQ==",
+  "success": true,
+  "projectFilePath": "C:\\RootFolder2\\Day5\\LabEx\\PojectObjectModelExample1\\PageClassLib\\PageClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E009068\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\E009068\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
